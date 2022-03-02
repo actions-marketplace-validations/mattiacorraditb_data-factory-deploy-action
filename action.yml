@@ -1,4 +1,4 @@
-name: data-factory-deploy
+name: data-factory-deploy-tb
 description: Deploy Azure Data Factory resources
 
 inputs:
